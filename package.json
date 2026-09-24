@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@mdi/font": "^7.4.47",
+    "@splinetool/runtime": "^2.0.57",
     "vue": "^2.7.16",
     "vuetify": "^2.7.2"
   },
